@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textutils_newnpm%20install%20--save%20gh-pagesnpm%20install%20--save%20gh-pages/static/css/main.abd64e84.css",
+    "main.js": "/textutils_newnpm%20install%20--save%20gh-pagesnpm%20install%20--save%20gh-pages/static/js/main.2ce6d084.js",
+    "static/js/787.78e28cfe.chunk.js": "/textutils_newnpm%20install%20--save%20gh-pagesnpm%20install%20--save%20gh-pages/static/js/787.78e28cfe.chunk.js",
+    "index.html": "/textutils_newnpm%20install%20--save%20gh-pagesnpm%20install%20--save%20gh-pages/index.html",
+    "main.abd64e84.css.map": "/textutils_newnpm%20install%20--save%20gh-pagesnpm%20install%20--save%20gh-pages/static/css/main.abd64e84.css.map",
+    "main.2ce6d084.js.map": "/textutils_newnpm%20install%20--save%20gh-pagesnpm%20install%20--save%20gh-pages/static/js/main.2ce6d084.js.map",
+    "787.78e28cfe.chunk.js.map": "/textutils_newnpm%20install%20--save%20gh-pagesnpm%20install%20--save%20gh-pages/static/js/787.78e28cfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2ce6d084.js"
+  ]
+}
